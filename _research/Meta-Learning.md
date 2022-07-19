@@ -20,4 +20,4 @@ brief: 'In this work, a Meta-Learning-based frame work is proposed for safely op
 <!-- <div style="text-align: justified">text</div> -->
 **<o>Disturbances</o>** and **<o>failures</o>** on autonomous systems may lead to **<o>unsafe</o>** conditions even after applying corrective counter-measures and adaptive techniques. Proactively **<o>predicts</o>** the future **<o>states</o>** and **<o>replan</o>** under uncertainties at **<o>runtime</o>** can effectively avoid unsafe future conditions. A **<o>Meta-Learning-based</o>** frame work is proposed so that the unmanned aerial vehicles can safely perform tasks regardless the degraded conditions.
 
-This work is currently under review for IEEE Robotics and Automation Letters (RA-L). More details will come soon.
+This work is accepted by IEEE Robotics and Automation Letters (RA-L) with IROS option. The work will be presented in   the [IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2022](https://iros2022.org/) in Kyoto, Japan. More details will come soon.
