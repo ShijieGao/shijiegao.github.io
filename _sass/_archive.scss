@@ -40,12 +40,25 @@
 }
 
 .archive__item-title {
-  margin-bottom: 0.25em;
+  margin-bottom: -1em;
   font-family: $sans-serif-narrow;
+  font-size: $type-size-pub;    // font size of the publication title
+  
+  // a + a {
+  //   opacity: 0.5;
+  // }
+}
 
-  a + a {
-    opacity: 0.5;
-  }
+.archive__citation {
+  margin: 1em 2em 0;
+  // padding-bottom: 0.5em;
+  // font-family: $sans-serif-narrow;
+  // font-size: $type-size-cit;
+  // color: mix(#fff, $gray, 25%);
+
+  // +.list__item .archive__item-title {
+  //   margin-top: 0.5em;
+  // }
 }
 
 /* remove border*/
@@ -79,9 +92,9 @@
     box-shadow: 0 0 10px rgba(#000, 0.25);
   }
 
-  .archive__item-title {
-    text-decoration: underline;
-  }
+  // .archive__item-title {
+  //   text-decoration: underline;
+  // }
 }
 
 

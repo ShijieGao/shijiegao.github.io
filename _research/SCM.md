@@ -34,14 +34,14 @@ Typically, for a robot, the motion of the system can be characterized by a corre
 </p>
 
 ### More details
-If you are interested and want to know more details about this work, you can check [my paper](/files/pdf/publications/A_Conformal_Mapping-based_Framework_for_Robot-to-Robot_and_Sim-to-Real_Transfer_Learning.pdf) or watch my oral presentation at IROS21 in the video below. A copy of the slides showed in the video can be downloaded [here](/files/pdf/talks/IROS20_presentation_shijie_web.pdf).
+If you are interested and want to know more details about this work, you can check [my paper](/files/pdf/publications/A_Conformal_Mapping-based_Framework_for_Robot-to-Robot_and_Sim-to-Real_Transfer_Learning.pdf) or watch my oral presentation at IROS21 in the video below. A copy of the slides showed in the video can be downloaded [here](/files/pdf/talks/IROS21_presentation_shijie_web.pdf).
 
 <a name="SCM_youtube"></a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kPN5emkd85Q?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<!-- You can find the slides in the video below and download the slides [here](/files/pdf/talks/IROS20_presentation_shijie_web.pdf)
-<iframe src="/files/pdf/talks/IROS20_presentation_shijie_web.pdf#toolbar=1" width="100%" height="500" frameborder="no" border="0" marginheight="0"></iframe> -->
+<!-- You can find the slides in the video below and download the slides [here](/files/pdf/talks/IROS21_presentation_shijie_web.pdf)
+<iframe src="/files/pdf/talks/IROS21_presentation_shijie_web.pdf#toolbar=1" width="100%" height="500" frameborder="no" border="0" marginheight="0"></iframe> -->
 
 

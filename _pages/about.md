@@ -10,7 +10,7 @@ redirect_from:
 
 Hello there! I am a Ph.D. student in Computer Engineering at the University of Virginia. I work in the [Autonomous Mobile Robots (AMR) Lab](https://www.bezzorobotics.com/) and the [Link Lab](https://engineering.virginia.edu/link-lab) under the advisement of [Prof. Nicola Bezzo](https://engineering.virginia.edu/faculty/nicola-bezzo). Before coming to UVA, I was an exchange student for my senior year of undergraduate at UC Berkeley EECS. I received my B.S. degree in Automation at the [Beijing Institute of Technology](https://english.bit.edu.cn/), Beijing, China in 2017.
 
-My research is focused on **adaptive motion and path planning for unmanned ground/aerial vehicles**, **transfer learning**, and **robotics system failure detection and recovery**. I also have experience in **robot indoor localization and sensing**. Check out our lab [website](https://www.bezzorobotics.com/) to see more research works performed by my colleagues! Feel free to shoot me an email if you are interested in my work or have any questions for me.
+My research is focused on **adaptive motion and path planning for unmanned ground/aerial vehicles**, **transfer learning**, and **robotics system failure detection and recovery**. I also have experience in **robot indoor localization and sensing**. Feel free to shoot me an email if you are interested in my work or have any questions for me.
 
 Beyond school, I'm a big outdoor person and I like almost all kinds of sports.
 
