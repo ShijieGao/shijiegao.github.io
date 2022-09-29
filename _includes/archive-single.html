@@ -35,13 +35,14 @@
         {% if post.paperurl %}
           <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true" title="download PDF"></i></a>
         {% endif %}
-        {% if post.underReview %}
-          <i class="fa fa-hourglass-half" aria-hidden="true" title="Under Review"></i>
-        {% endif %}
       {% elsif post.collection == 'publications' and post.detail == "enabled" %}
         {{ title }}
-        {% if post.detail == "enabled" %}
+        {% if post.detail == "enabled" and post.permalink %}
           <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-info-circle" aria-hidden="true"
+            title="learn more details"></i><span class="sr-only">Permalink</span></a>
+        {% endif %}
+        {% if post.detail == "enabled" and post.outlink %}
+        <a href="{{ post.outlink }}" rel="outlink"><i class="fa fa-info-circle" aria-hidden="true"
             title="learn more details"></i><span class="sr-only">Permalink</span></a>
         {% endif %}
         {% if post.link %}

@@ -1,8 +1,8 @@
 ---
 title: "Detection of Nonrandom Sign-Based Behavior for Resilient Coordination of Robotic Swarms"
 collection: publications
-detail: "disabled"
-permalink: 'https://paulbonczek.github.io/projects/TRO2021/'
+detail: "enabled"
+outlink: 'https://paulbonczek.github.io/projects/TRO2022/'
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2022-02-01
 venue: 'IEEE Transactions on Robotics ( Volume: 38, Issue: 1, Feb. 2022)'
