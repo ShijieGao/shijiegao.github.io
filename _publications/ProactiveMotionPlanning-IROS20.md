@@ -1,5 +1,5 @@
 ---
-title: "A data-driven framework for proactive intention-aware motion planning of a robot in a human environment"
+title: "[5] A data-driven framework for proactive intention-aware motion planning of a robot in a human environment"
 collection: publications
 detail: "enabled"
 outlink: 'https://www.bezzorobotics.com/rahul-peddi'

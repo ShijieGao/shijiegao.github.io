@@ -1,5 +1,5 @@
 ---
-title: "Meta-Learning-based Proactive Online Planning for UAVs under Degraded Conditions"
+title: "[1] Meta-Learning-based Proactive Online Planning for UAVs under Degraded Conditions"
 collection: publications
 detail: "enabled"
 permalink: /research/Meta-Learning

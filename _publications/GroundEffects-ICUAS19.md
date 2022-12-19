@@ -1,5 +1,5 @@
 ---
-title: "Exploiting ground and ceiling effects on autonomous UAV motion planning"
+title: "[8] Exploiting ground and ceiling effects on autonomous UAV motion planning"
 collection: publications
 detail: "enabled"
 permalink: /research/Ground-and-Ceiling-Effects

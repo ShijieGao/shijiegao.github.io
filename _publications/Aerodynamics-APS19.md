@@ -1,5 +1,5 @@
 ---
-title: "Scaling effects on aerodynamic interactions of rotor-
+title: "[7] Scaling effects on aerodynamic interactions of rotor-
 craft around boundaries"
 collection: publications
 detail: "disabled"

@@ -1,5 +1,5 @@
 ---
-title: "Fast, Safe, and Proactive Runtime Planning and Control of Autonomous Ground Vehicles in Changing Environments"
+title: "[4] Fast, Safe, and Proactive Runtime Planning and Control of Autonomous Ground Vehicles in Changing Environments"
 collection: publications
 detail: "disabled"
 # permalink: /publication/Traversability-SIEDS21
