@@ -1,5 +1,5 @@
 ---
-title: "[3] A Conformal Mapping-based Framework for Robot-to-Robot and Sim-to-Real Transfer Learning"
+title: "[4] A Conformal Mapping-based Framework for Robot-to-Robot and Sim-to-Real Transfer Learning"
 collection: publications
 detail: "enabled"
 # permalink: /publication/SCM-IROS2021

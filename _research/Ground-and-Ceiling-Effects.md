@@ -30,7 +30,7 @@ A secondary desired effect is that by monitoring thrust, the UAV can <o>detect</
 - A framework for quadrotor to **<o>exploit ground and ceiling effects</o>** to **<o>detect</o>** surfaces and create **<o>energy efficient motion planning</o>**.
 
 ### More details
-If you are interested and want to know more details about this work, you can check [my paper](/files/pdf/publications/Exploiting_Ground_and_Ceiling_Effects_on_Autonomous_UAV_Motion_Planning.pdf) or check my oral presentation [slides](/files/pdf/talks/ICUAS19_presentation_shijie_web.pdf) on ICUAS 2019 below.
+If you are interested and want to know more details about this work, you can check [my paper](/files/pdf/publications/Exploiting_Ground_and_Ceiling_Effects_on_Autonomous_UAV_Motion_Planning.pdf) or check my oral presentation [slides](/files/pdf/talks/ICUAS19_presentation_shijie_web.pdf) on ICUAS 2019 below. Some of the videos and the ROS bag files are available [Videos](https://www.bezzorobotics.com/sg-icuas19)
 <a name="SCM_youtube"></a>
 
 <iframe src="/files/pdf/talks/ICUAS19_presentation_shijie_web.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>

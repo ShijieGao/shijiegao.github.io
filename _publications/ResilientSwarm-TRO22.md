@@ -1,5 +1,5 @@
 ---
-title: "[2] Detection of Nonrandom Sign-Based Behavior for Resilient Coordination of Robotic Swarms"
+title: "[3] Detection of Nonrandom Sign-Based Behavior for Resilient Coordination of Robotic Swarms"
 collection: publications
 detail: "enabled"
 outlink: 'https://paulbonczek.github.io/projects/TRO2022/'

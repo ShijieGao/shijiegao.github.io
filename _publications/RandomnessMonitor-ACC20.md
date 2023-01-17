@@ -1,5 +1,5 @@
 ---
-title: "[6] Model-based randomness monitor for stealthy sensor attacks"
+title: "[7] Model-based randomness monitor for stealthy sensor attacks"
 collection: publications
 detail: "enabled"
 # permalink: /publication/RandomnessMonitor-ACC20
