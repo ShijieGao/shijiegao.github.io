@@ -1,5 +1,5 @@
 ---
-title: "[P2] Take the Next-Best-View Picture for Infrastructure Inspection"
+title: "[P2] Sampling-Based Next-Best-View for Autonomous Aerial Inspection"
 collection: publications
 detail: "disabled"
 # permalink: /publication/SCM-IROS2021
@@ -9,5 +9,5 @@ date: 2023-03-15
 #paperurl: '/files/pdf/publications/A_Conformal_Mapping-based_Framework_for_Robot-to-Robot_and_Sim-to-Real_Transfer_Learning.pdf'
 #link: 'https://ieeexplore.ieee.org/abstract/document/9636682'
 citation: '<strong>Shijie Gao </strong>, Lauren Bramblett and Nicola Bezzo, 2023, March.  <strong>  <front  style="color:#F88E2D"> <i class="fa fa-hourglass-half" aria-hidden="true" title="Under Review"></i>In Preparation For IROS2023</front> </strong> '
-order_number: 100
+order_number: 105
 ---
