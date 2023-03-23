@@ -1,7 +1,7 @@
 ---
 title: "Epistemic Prediction and Planning with Implicit Coordination for Multi-Robot Teams in Communication Restricted Environments"
 layout: single-portfolio
-excerpt: "<img src='/images/research/Meta-Learning-teaser.png'  alt='drawing' width='400px'/>"
+excerpt: "<img src='/images/research/Epistemic_intro.png'  alt='drawing' width='400px'/>"
 collection: research
 order_number: 50
 brief: 'In this work, a Meta-Learning-based frame work is proposed for safely operating unmanned aerial vehicles(UAV) under degraded conditions.'
