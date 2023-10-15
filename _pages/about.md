@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+**I'm actively looking for Robotics Research/Engineer positions starting in Jan. 2024**
 
 I am a Ph.D. candidate in Computer Engineering at the University of Virginia. I work in the [Autonomous Mobile Robots (AMR) Lab](https://www.bezzorobotics.com/) and the [Link Lab](https://engineering.virginia.edu/link-lab) under the advisement of [Prof. Nicola Bezzo](https://engineering.virginia.edu/faculty/nicola-bezzo). Before coming to UVA, I was an exchange student for my senior year of undergraduate at UC Berkeley EECS. I received my B.S. degree in Automation at the [Beijing Institute of Technology](https://english.bit.edu.cn/), Beijing, China in 2017.
 
