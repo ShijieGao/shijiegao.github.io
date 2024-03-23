@@ -1,0 +1,11 @@
+@INPROCEEDINGS{9341210,
+  author={Peddi, Rahul and Franco, Carmelo Di and Gao, Shijie and Bezzo, Nicola},
+  booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={A Data-driven Framework for Proactive Intention-Aware Motion Planning of a Robot in a Human Environment}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={5738-5744},
+  keywords={Protocols;Hidden Markov models;Stochastic processes;Predictive models;Planning;Mobile robots;Reachability analysis},
+  doi={10.1109/IROS45743.2020.9341210}
+}

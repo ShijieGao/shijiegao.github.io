@@ -1,0 +1,15 @@
+@article{Bonczek_TRO,
+  abbr = {T-RO},
+  bibtex_show = {true},
+  author = {Bonczek, Paul J and Peddi, Rahul and Gao, Shijie and Bezzo, Nicola},
+  journal = {IEEE Transactions on Robotics},
+  title = {Detection of Nonrandom Sign-Based Behavior for Resilient Coordination of Robotic Swarms},
+  year = {2022},
+  volume = {38},
+  number = {1},
+  pages = {92-109},
+  doi = {10.1109/TRO.2021.3139592},
+  pdf = {https://ieeexplore.ieee.org/document/9686360},
+  selected = {true}
+}
+

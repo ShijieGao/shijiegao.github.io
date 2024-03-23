@@ -1,0 +1,112 @@
+main:
+
+  - title: "Take Your Best Shot: Sampling-Based Next-Best-View Planning for Autonomous Photography & Inspection"
+    authors: <strong>Shijie Gao</strong>, Lauren Bramblett, Nicola Bezzo
+    hostpage: https://arxiv.org/abs/2403.05477
+    conference_short: Preprint
+    conference: Under review
+    pdf: './assets/files/publications/Take_Your_Best_Shot_Sampling-Based_Next-Best-View_Planning_for_Autonomous_Photography_Inspection.pdf'
+    code: https://github.com/laurenbramblett/NBV_Photography_Inspection
+    page: https://www.bezzorobotics.com/sg-lb-iros24
+    bibtex: './assets/files/bibtex/NBV.txt' 
+    image: './assets/img/publication/NBV_IROS.png'
+
+  - title: Next-Best-View-based Task and Motion Planning for Autonomous Photography & Inspection
+    authors: <strong>Shijie Gao</strong>, Lauren Bramblett, Nicola Bezzo
+    hostpage: https://dyalab.mines.edu/2023/iros-workshop/
+    conference_short: IROS 23 <br> TAMP
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems - Task and Motion Planning Workshop (IROS TAMP), 2023
+    pdf: './assets/files/publications/Next-Best-View-based_Task_and_Motion_Planning_for_Autonomous_Photography_Inspection.pdf'
+    page: https://www.bezzorobotics.com/sg-lb-tamp23
+    bibtex: './assets/files/bibtex/NBV.txt' 
+    image: './assets/img/publication/NBV_TAMP.png'
+
+  - title: Epistemic Prediction and Planning with Implicit Coordination for Multi-Robot Teams in Communication Restricted Environments
+    authors: Lauren Bramblett, <strong>Shijie Gao</strong>, Nicola Bezzo
+    hostpage: https://ieeexplore.ieee.org/abstract/document/10161553
+    conference_short: ICRA 23
+    conference: IEEE International Conference on Robotics and Automation (ICRA), 2023
+    pdf: './assets/files/publications/Epistemic_Prediction_and_Planning_with_Implicit_Coordination_for_Multi-Robot_Teams_in_Communication_Restricted_Environments.pdf'
+    page: https://www.bezzorobotics.com/lb-icra23
+    code: https://github.com/laurenbramblett/epistemic-planning-mrs-icra23
+    bibtex: './assets/files/bibtex/Epistemic.txt' 
+    image: './assets/img/publication/epistemic.png'
+
+  - title: Meta-Learning-based Proactive Online Planning for UAVs under Degraded Conditions 
+    authors: <strong>Shijie Gao</strong>, Esen Yel, Nicola Bezzo
+    hostpage: https://ieeexplore.ieee.org/abstract/document/9832491
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters (RA-L)
+    pdf: './assets/files/publications/Meta-Learning-based-Proactive-Online_Planning_for_UAVs_under_Degraded_Conditions.pdf'
+    bibtex: './assets/files/bibtex/Meta-Learning.txt' 
+    video: https://www.youtube.com/watch?v=UJXHvWrRutw
+    image: './assets/img/publication/meta_learning.png'
+    notes: Oral Presented at IROS 2022
+
+  - title: Detection of nonrandom sign-based behavior for resilient coordination of robotic swarms
+    hostpage: https://ieeexplore.ieee.org/abstract/document/9686360
+    authors: Paul J Bonczek, Rahul Peddi, <strong>Shijie Gao</strong>, Nicola Bezzo
+    conference_short: T-RO
+    conference: IEEE Transactions on Robotics (T-RO)
+    pdf: './assets/files/publications/Detection_of_Nonrandom_Sign-Based_Behavior_for_Resilient_Coordination_of_Robotic_Swarms.pdf'
+    page: https://paulbonczek.github.io/projects/TRO2022/
+    bibtex: './assets/files/bibtex/nonrandomDetect.txt' 
+    image: './assets/img/publication/nonrandomDetect.png'
+
+  - title: A conformal mapping-based framework for robot-to-robot and sim-to-real transfer learning
+    authors: <strong>Shijie Gao</strong>, Nicola Bezzo
+    hostpage: https://ieeexplore.ieee.org/abstract/document/9636682
+    conference_short: IROS 
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
+    pdf: './assets/files/publications/A_Conformal_Mapping-based_Framework_for_Robot-to-Robot_and_Sim-to-Real_Transfer_Learning.pdf' 
+    bibtex: './assets/files/bibtex/SCM_IROS.txt' 
+    video: https://youtu.be/IvSroZqIEwI
+    image: './assets/img/publication/SCM_intro.png'
+
+  - title: Fast, Safe, and Proactive Runtime Planning and Control of Autonomous Ground Vehicles in Changing Environments
+    authors: Grace Glaubit, Katie Kleeman, Noelle Law, Jeremiah Thomas, <strong>Shijie Gao</strong>, Rahul Peddi, Esen Yel, Nicola Bezzo
+    hostpage: https://ieeexplore.ieee.org/abstract/document/9483719
+    conference_short: SIEDS
+    conference: Systems and Information Engineering Design Symposium (SIEDS), 2021
+    pdf: './assets/files/publications/Fast_Safe_and_Proactive_Runtime_Planning_and_Control_of_Autonomous_Ground_Vehicles_in_Changing_Environments.pdf' 
+    bibtex: './assets/files/bibtex/plan_SIEDS21.txt' 
+    image: './assets/img/publication/SIEDS21.png'
+
+  - title: A data-driven framework for proactive intention-aware motion planning of a robot in a human environment
+    authors: Rahul Peddi, Carmelo Di Franco, <strong>Shijie Gao</strong>, Nicola Bezzo
+    hostpage: https://ieeexplore.ieee.org/abstract/document/9341210
+    conference_short: IROS
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020
+    pdf: './assets/files/publications/A_Data-driven_Framework_for_Proactive_Intention-Aware_Motion_Planning_of_a_Robot_in_a_Human_Environment.pdf' 
+    page: https://www.bezzorobotics.com/rp-iros20
+    bibtex: './assets/files/bibtex/IntertionPlan.txt' 
+    image: './assets/img/publication/intentionAware.png'
+
+  - title: Model-based randomness monitor for stealthy sensor attacks
+    authors: Paul J Bonczek, <strong>Shijie Gao</strong>, Nicola Bezzo
+    hostpage: https://ieeexplore.ieee.org/abstract/document/9147412
+    conference_short: ACC
+    conference: American Control Conference (ACC), 2020
+    pdf: './assets/files/publications/Model-based_Randomness_Monitor_for_Stealthy_Sensor_Attacks.pdf' 
+    page: https://paulbonczek.github.io/projects/ACC2020/
+    bibtex: './assets/files/bibtex/modelBasedMonitor.txt' 
+    image: './assets/img/publication/modelBasedMonitor_teaser.png'
+
+  - title: Scaling effects on aerodynamic interactions of rotorcraft around boundaries 
+    authors: Darius Carter, Megan Mazzatenta, <strong>Shijie Gao</strong>, Carmelo Di Franco, Nicola Bezzo, Daniel Quinn, Link Lab Collaboration
+    hostpage: https://ui.adsabs.harvard.edu/abs/2019APS..DFDB09004C/abstract
+    conference_short: APS
+    conference: APS Division of Fluid Dynamics (Fall), 2019
+    pdf: https://ui.adsabs.harvard.edu/abs/2019APS..DFDB09004C/abstract
+    bibtex: './assets/files/bibtex/groundeffect.txt' 
+    image: './assets/img/publication/APS.png'
+
+  - title: Exploiting ground and ceiling effects on autonomous UAV motion planning
+    authors: <strong>Shijie Gao</strong>, Carmelo Di Franco, Darius Carter, Daniel Quinn, Nicola Bezzo
+    hostpage: https://ieeexplore.ieee.org/abstract/document/8798091
+    conference_short: ICUAS
+    conference: International Conference on Unmanned Aircraft Systems (ICUAS), 2019
+    pdf: './assets/files/publications/Exploiting_Ground_and_Ceiling_Effects_on_Autonomous_UAV_Motion_Planning.pdf' 
+    bibtex: './assets/files/bibtex/groundeffect.txt' 
+    image: './assets/img/publication/Ground_Effect_teaser.png'
+    slides: 

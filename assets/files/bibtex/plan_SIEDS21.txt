@@ -1,0 +1,11 @@
+@INPROCEEDINGS{9483719,
+  author={Glaubit, Grace and Kleeman, Katie and Law, Noelle and Thomas, Jeremiah and Gao, Shijie and Peddi, Rahul and Yel, Esen and Bezzo, Nicola},
+  booktitle={2021 Systems and Information Engineering Design Symposium (SIEDS)}, 
+  title={Fast, Safe, and Proactive Runtime Planning and Control of Autonomous Ground Vehicles in Changing Environments}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Runtime;Uncertainty;Navigation;Friction;Predictive models;Robot sensing systems;Land vehicles;motion planning;terrain traversability;neural network;unmanned ground vehicles},
+  doi={10.1109/SIEDS52267.2021.9483719}
+}

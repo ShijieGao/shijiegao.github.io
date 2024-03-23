@@ -1,0 +1,11 @@
+@INPROCEEDINGS{9147412,
+  author={Bonczek, Paul J and Gao, Shijie and Bezzo, Nicola},
+  booktitle={2020 American Control Conference (ACC)}, 
+  title={Model-based Randomness Monitor for Stealthy Sensor Attacks}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={2036-2042},
+  keywords={Monitoring;Robot sensing systems;Noise measurement;Covariance matrices;Microsoft Windows;Detectors;Kalman filters},
+  doi={10.23919/ACC45564.2020.9147412}
+}

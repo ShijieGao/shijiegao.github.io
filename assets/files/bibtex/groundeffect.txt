@@ -1,0 +1,11 @@
+@INPROCEEDINGS{8798091,
+  author={Gao, Shijie and Franco, Carmelo Di and Carter, Darius and Quinn, Daniel and Bezzo, Nicola},
+  booktitle={2019 International Conference on Unmanned Aircraft Systems (ICUAS)}, 
+  title={Exploiting Ground and Ceiling Effects on Autonomous UAV Motion Planning}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={768-777},
+  keywords={Sensors;Planning;Energy consumption;Rotors;Dynamics;Vehicle dynamics;Cameras},
+  doi={10.1109/ICUAS.2019.8798091}
+}
