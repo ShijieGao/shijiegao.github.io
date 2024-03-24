@@ -20,6 +20,7 @@ main:
     page: https://www.bezzorobotics.com/sg-lb-tamp23
     bibtex: './assets/files/bibtex/NBV.txt' 
     image: './assets/img/publication/NBV_TAMP.png'
+    slides: './assets/files/slides/NBV_TAMP_IROS_workshop_SG.pdf' 
 
   - title: Epistemic Prediction and Planning with Implicit Coordination for Multi-Robot Teams in Communication Restricted Environments
     authors: Lauren Bramblett, <strong>Shijie Gao</strong>, Nicola Bezzo
@@ -42,8 +43,9 @@ main:
     video: https://www.youtube.com/watch?v=UJXHvWrRutw
     image: './assets/img/publication/meta_learning.png'
     notes: Oral Presented at IROS 2022
+    slides: './assets/files/slides/IROS22_presentation_shijie_web.pdf' 
 
-  - title: Detection of nonrandom sign-based behavior for resilient coordination of robotic swarms
+  - title: Detection of Nonrandom Sign-based Behavior for Resilient Coordination of Robotic swarms
     hostpage: https://ieeexplore.ieee.org/abstract/document/9686360
     authors: Paul J Bonczek, Rahul Peddi, <strong>Shijie Gao</strong>, Nicola Bezzo
     conference_short: T-RO
@@ -53,7 +55,7 @@ main:
     bibtex: './assets/files/bibtex/nonrandomDetect.txt' 
     image: './assets/img/publication/nonrandomDetect.png'
 
-  - title: A conformal mapping-based framework for robot-to-robot and sim-to-real transfer learning
+  - title: A Conformal Mapping-based Framework for Robot-to-Robot and Sim-to-Real Transfer Learning
     authors: <strong>Shijie Gao</strong>, Nicola Bezzo
     hostpage: https://ieeexplore.ieee.org/abstract/document/9636682
     conference_short: IROS 
@@ -62,6 +64,7 @@ main:
     bibtex: './assets/files/bibtex/SCM_IROS.txt' 
     video: https://youtu.be/IvSroZqIEwI
     image: './assets/img/publication/SCM_intro.png'
+    slides: './assets/files/slides/IROS21_presentation_shijie_web.pdf' 
 
   - title: Fast, Safe, and Proactive Runtime Planning and Control of Autonomous Ground Vehicles in Changing Environments
     authors: Grace Glaubit, Katie Kleeman, Noelle Law, Jeremiah Thomas, <strong>Shijie Gao</strong>, Rahul Peddi, Esen Yel, Nicola Bezzo
@@ -72,7 +75,7 @@ main:
     bibtex: './assets/files/bibtex/plan_SIEDS21.txt' 
     image: './assets/img/publication/SIEDS21.png'
 
-  - title: A data-driven framework for proactive intention-aware motion planning of a robot in a human environment
+  - title: A Data-driven Framework for Proactive Intention-aware Motion Planning of a Robot in a Human Environment
     authors: Rahul Peddi, Carmelo Di Franco, <strong>Shijie Gao</strong>, Nicola Bezzo
     hostpage: https://ieeexplore.ieee.org/abstract/document/9341210
     conference_short: IROS
@@ -82,7 +85,7 @@ main:
     bibtex: './assets/files/bibtex/IntertionPlan.txt' 
     image: './assets/img/publication/intentionAware.png'
 
-  - title: Model-based randomness monitor for stealthy sensor attacks
+  - title: Model-based Randomness Monitor for Stealthy Sensor Attacks
     authors: Paul J Bonczek, <strong>Shijie Gao</strong>, Nicola Bezzo
     hostpage: https://ieeexplore.ieee.org/abstract/document/9147412
     conference_short: ACC
@@ -92,7 +95,7 @@ main:
     bibtex: './assets/files/bibtex/modelBasedMonitor.txt' 
     image: './assets/img/publication/modelBasedMonitor_teaser.png'
 
-  - title: Scaling effects on aerodynamic interactions of rotorcraft around boundaries 
+  - title: Scaling Effects on Aerodynamic Interactions of Rotorcraft around Boundaries 
     authors: Darius Carter, Megan Mazzatenta, <strong>Shijie Gao</strong>, Carmelo Di Franco, Nicola Bezzo, Daniel Quinn, Link Lab Collaboration
     hostpage: https://ui.adsabs.harvard.edu/abs/2019APS..DFDB09004C/abstract
     conference_short: APS
@@ -101,7 +104,7 @@ main:
     bibtex: './assets/files/bibtex/groundeffect.txt' 
     image: './assets/img/publication/APS.png'
 
-  - title: Exploiting ground and ceiling effects on autonomous UAV motion planning
+  - title: Exploiting Ground and Ceiling Effects on Autonomous UAV Motion Planning
     authors: <strong>Shijie Gao</strong>, Carmelo Di Franco, Darius Carter, Daniel Quinn, Nicola Bezzo
     hostpage: https://ieeexplore.ieee.org/abstract/document/8798091
     conference_short: ICUAS
@@ -109,4 +112,4 @@ main:
     pdf: './assets/files/publications/Exploiting_Ground_and_Ceiling_Effects_on_Autonomous_UAV_Motion_Planning.pdf' 
     bibtex: './assets/files/bibtex/groundeffect.txt' 
     image: './assets/img/publication/Ground_Effect_teaser.png'
-    slides: 
+    slides: './assets/files/slides/ICUAS19_presentation_shijie_web.pdf' 
