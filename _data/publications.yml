@@ -58,7 +58,7 @@ main:
   - title: A Conformal Mapping-based Framework for Robot-to-Robot and Sim-to-Real Transfer Learning
     authors: <strong>Shijie Gao</strong>, Nicola Bezzo
     hostpage: https://ieeexplore.ieee.org/abstract/document/9636682
-    conference_short: IROS 
+    conference_short: IROS 21 
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
     pdf: './assets/files/publications/A_Conformal_Mapping-based_Framework_for_Robot-to-Robot_and_Sim-to-Real_Transfer_Learning.pdf' 
     bibtex: './assets/files/bibtex/SCM_IROS.txt' 
@@ -69,7 +69,7 @@ main:
   - title: Fast, Safe, and Proactive Runtime Planning and Control of Autonomous Ground Vehicles in Changing Environments
     authors: Grace Glaubit, Katie Kleeman, Noelle Law, Jeremiah Thomas, <strong>Shijie Gao</strong>, Rahul Peddi, Esen Yel, Nicola Bezzo
     hostpage: https://ieeexplore.ieee.org/abstract/document/9483719
-    conference_short: SIEDS
+    conference_short: SIEDS 21
     conference: Systems and Information Engineering Design Symposium (SIEDS), 2021
     pdf: './assets/files/publications/Fast_Safe_and_Proactive_Runtime_Planning_and_Control_of_Autonomous_Ground_Vehicles_in_Changing_Environments.pdf' 
     bibtex: './assets/files/bibtex/plan_SIEDS21.txt' 
@@ -78,7 +78,7 @@ main:
   - title: A Data-driven Framework for Proactive Intention-aware Motion Planning of a Robot in a Human Environment
     authors: Rahul Peddi, Carmelo Di Franco, <strong>Shijie Gao</strong>, Nicola Bezzo
     hostpage: https://ieeexplore.ieee.org/abstract/document/9341210
-    conference_short: IROS
+    conference_short: IROS 20
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020
     pdf: './assets/files/publications/A_Data-driven_Framework_for_Proactive_Intention-Aware_Motion_Planning_of_a_Robot_in_a_Human_Environment.pdf' 
     page: https://www.bezzorobotics.com/rp-iros20
@@ -88,7 +88,7 @@ main:
   - title: Model-based Randomness Monitor for Stealthy Sensor Attacks
     authors: Paul J Bonczek, <strong>Shijie Gao</strong>, Nicola Bezzo
     hostpage: https://ieeexplore.ieee.org/abstract/document/9147412
-    conference_short: ACC
+    conference_short: ACC 20
     conference: American Control Conference (ACC), 2020
     pdf: './assets/files/publications/Model-based_Randomness_Monitor_for_Stealthy_Sensor_Attacks.pdf' 
     page: https://paulbonczek.github.io/projects/ACC2020/
@@ -98,7 +98,7 @@ main:
   - title: Scaling Effects on Aerodynamic Interactions of Rotorcraft around Boundaries 
     authors: Darius Carter, Megan Mazzatenta, <strong>Shijie Gao</strong>, Carmelo Di Franco, Nicola Bezzo, Daniel Quinn, Link Lab Collaboration
     hostpage: https://ui.adsabs.harvard.edu/abs/2019APS..DFDB09004C/abstract
-    conference_short: APS
+    conference_short: APS 19
     conference: APS Division of Fluid Dynamics (Fall), 2019
     pdf: https://ui.adsabs.harvard.edu/abs/2019APS..DFDB09004C/abstract
     bibtex: './assets/files/bibtex/groundeffect.txt' 
@@ -107,7 +107,7 @@ main:
   - title: Exploiting Ground and Ceiling Effects on Autonomous UAV Motion Planning
     authors: <strong>Shijie Gao</strong>, Carmelo Di Franco, Darius Carter, Daniel Quinn, Nicola Bezzo
     hostpage: https://ieeexplore.ieee.org/abstract/document/8798091
-    conference_short: ICUAS
+    conference_short: ICUAS 19
     conference: International Conference on Unmanned Aircraft Systems (ICUAS), 2019
     pdf: './assets/files/publications/Exploiting_Ground_and_Ceiling_Effects_on_Autonomous_UAV_Motion_Planning.pdf' 
     bibtex: './assets/files/bibtex/groundeffect.txt' 

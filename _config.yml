@@ -1,6 +1,6 @@
 # Basic Information 
 title: Shijie Gao
-position: PhD Candidate
+position: Ph.D. 
 affiliation_univ: University of Virginia
 affiliation_univ_link: https://www.virginia.edu/
 affiliation_univ_logo: ./assets/img/university-of-virginia-logo-horizontal.svg
@@ -14,7 +14,7 @@ email: sjgao@virginia.edu
 # Search Engine Optimization (SEO)
 # keywords: shijie gao, gao shijie, shijiegao, gaoshijie
 canonical: https://shijiegao.github.io
-description: Shijie Gao is a PhD candidate at University of VIrginia. His research focus on control and motion planning for the autonomous mobile robots.
+description: Shijie Gao is a PhD at University of Virginia. His research focus on control and motion planning for the autonomous mobile robots.
 
 # The option is used to enable the UVA template.
 enable_UVA: true
