@@ -3,6 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[Aug 14, 2024]</strong> I moved from VA to CA and started my new role at DiDi Research Americac working on planning and control for L4 autonomous driving.  </li>
 <li><strong>[May 28, 2024]</strong> I successfully defended my PhD thesis "Transfer Learning Methods for Prediction, Replanning, and Adaptations of Autonomous Mobile Robots under Degraded Conditions".  </li>
 <li><strong>[Sept. 1, 2023]</strong> Our recent paper about Next-Best-View-based Task and Motion Planning has been accepted to IROS23-TAMP Workshop and will be presented in Detroit, IL, USA on Oct. 1st - Oct. 5th, 2023.  </li>
 <li><strong>[May 21, 2023]</strong> I earned my Master's en Passant to my doctorate. </li>
