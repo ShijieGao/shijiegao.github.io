@@ -3,6 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[Jan 27, 2025]</strong> Our recent paper abaout <a href="https://arxiv.org/abs/2403.05477" target="blank">Sampling-Based Planning for Autonomous Photography</a> has been accepted to ICRA and will be presented during ICRA25 in Atlanta, USA on May 19 - May 23 2025.  </li>
 <li><strong>[Aug 14, 2024]</strong> I moved from VA to CA and started my new role at DiDi Research America working on planning and control for L4 autonomous driving.  </li>
 <li><strong>[May 28, 2024]</strong> I successfully defended my PhD thesis "Transfer Learning Methods for Prediction, Replanning, and Adaptations of Autonomous Mobile Robots under Degraded Conditions".  </li>
 <li><strong>[Sept. 1, 2023]</strong> Our recent paper about Next-Best-View-based Task and Motion Planning has been accepted to IROS23-TAMP Workshop and will be presented in Detroit, IL, USA on Oct. 1st - Oct. 5th, 2023.  </li>
@@ -16,7 +17,7 @@
   <li><strong>[Jan. 20, 2022]</strong> Our recent paper about resilient robotic swarms has been accepted to T-RO. </li>
   <li><strong>[Nov. 17, 2021]</strong>I co-organized the 6th UVA Annaual AMR competition. The highly anticipated return of the in-person competition is featured in <a href="https://news.virginia.edu/content/putting-it-all-line">UAV Today</a>.</li>
 
-  <li><strong>[Apr. 1, 2021]</strong> We are featured in <a href="https://engineering.virginia.edu/news/2021/04/see-spot" target="_blank">UVA Today</a>, welcoming <a href="https://www.youtube.com/watch?v=_y5V7sAETrE" target="_blank">Boston Dynamics Spot</a>. My labmate and I developed Spot python ROS wrapper using <a href="https://dev.bostondynamics.com/" target="_blank">BD Spot SDK </a> for lab needs.</li> 
+  <li><strong>[Apr. 1, 2021]</strong> We are featured in <a href="https://engineering.virginia.edu/news/2021/04/see-spot" target="_blank">UVA Today</a>, welcoming <a href="https://www.youtube.com/watch?v=_y5V7sAETrE" target="_blank">Boston Dynamics Spot</a>. My labmate and I developed Spot python ROS wrapper using <a href="https://dev.bostondynamics.com/" target="_blank">BD Spot SDK </a> for lab needs.</li>
 
   <li><strong>[Nov. 19, 2020]</strong> As one of two graduate teaching assistants for the Autonomous Mobile Robots class, I co-led the shift of lab sessions from physical robots to online simulationsc. The graduate-level class, hosting over 40 students from four departments, is recognized in <a href="https://news.virginia.edu/content/navigating-obstacles-engineering-students-compete-robot-challenge-virtually" target="_blank">UVA Today</a> for its success and broad appeal amid COVID-19 pandemic.</li>
 
