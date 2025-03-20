@@ -3,15 +3,16 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[Mar 20, 2025]</strong> Our recent paper "A Schwarz-Christoffel Mapping-based Framework for Sim-to-Real Transfer in Autonomous Robot Operations" has been accepted to the Journal of Intelligent & Robotic Systems (JINT).  </li>
 <li><strong>[Jan 27, 2025]</strong> Our recent paper abaout <a href="https://arxiv.org/abs/2403.05477" target="blank">Sampling-Based Planning for Autonomous Photography</a> has been accepted to ICRA and will be presented during ICRA25 in Atlanta, USA on May 19 - May 23 2025.  </li>
 <li><strong>[Aug 14, 2024]</strong> I moved from VA to CA and started my new role at DiDi Research America working on planning and control for L4 autonomous driving.  </li>
 <li><strong>[May 28, 2024]</strong> I successfully defended my PhD thesis "Transfer Learning Methods for Prediction, Replanning, and Adaptations of Autonomous Mobile Robots under Degraded Conditions".  </li>
-<li><strong>[Sept. 1, 2023]</strong> Our recent paper about Next-Best-View-based Task and Motion Planning has been accepted to IROS23-TAMP Workshop and will be presented in Detroit, IL, USA on Oct. 1st - Oct. 5th, 2023.  </li>
-<li><strong>[May 21, 2023]</strong> I earned my Master's en Passant to my doctorate. </li>
-<li><strong>[Jan. 27, 2023]</strong> I passed my dissertation proposal to enter PhD Candidacy. </li>
-<li><strong>[Jan. 16, 2023]</strong>  Our recent paper about epistemic path planning with limited communication has been accepted to ICRA23 and will be presented in London, UK on May. 29th - June 2nd, 2023. </li>
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
-  <div id="newsmore" style="display:none"> 
+  <div id="newsmore" style="display:none">     
+  <li><strong>[Sept. 1, 2023]</strong> Our recent paper about Next-Best-View-based Task and Motion Planning has been accepted to IROS23-TAMP Workshop and will be presented in Detroit, IL, USA on Oct. 1st - Oct. 5th, 2023.  </li>
+  <li><strong>[May 21, 2023]</strong> I earned my Master's en Passant to my doctorate. </li>
+  <li><strong>[Jan. 27, 2023]</strong> I passed my dissertation proposal to enter PhD Candidacy. </li>
+  <li><strong>[Jan. 16, 2023]</strong>  Our recent paper about epistemic path planning with limited communication has been accepted to ICRA23 and will be presented in London, UK on May. 29th - June 2nd, 2023. </li>
   <li><strong>[June 30, 2022]</strong>  Our recent paper about Meta-Learning-based proactive planning has been accepted to RA-L and will be presented during IROS22 in Kyoto, JP on Oct. 23rd - Oct. 27th, 2022. </li>
   <li><strong>[Apr. 25, 2022]</strong> I will present our lab in the <a href="https://news.virginia.edu/content/engineering-open-house-first-pandemic-draws-1000-curious-visitors" target="_blank">UVA Engineering Open House</a>. </li>
   <li><strong>[Jan. 20, 2022]</strong> Our recent paper about resilient robotic swarms has been accepted to T-RO. </li>
