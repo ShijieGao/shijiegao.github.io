@@ -5,7 +5,7 @@ main:
     hostpage: https://arxiv.org/abs/2403.05477
     conference_short: Preprint
     conference: Under review
-    pdf: './assets/files/publications/Take_Your_Best_Shot_Sampling-Based_Next-Best-View_Planning_for_Autonomous_Photography_Inspection.pdf'
+    pdf: './assets/files/publications/Take_Your_Best_Shot_Sampling-Based_Next-Best-View_Planning_for_Autonomous_Photography_Inspection_icra.pdf'
     code: https://github.com/laurenbramblett/NBV_Photography_Inspection
     page: https://www.bezzorobotics.com/sg-lb-iros24
     bibtex: './assets/files/bibtex/NBV.txt' 
