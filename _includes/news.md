@@ -3,8 +3,8 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Mar 20, 2025]</strong> Our recent paper "A Schwarz-Christoffel Mapping-based Framework for Sim-to-Real Transfer in Autonomous Robot Operations" has been accepted to the Journal of Intelligent & Robotic Systems (JINT).  </li>
-<li><strong>[Jan 27, 2025]</strong> Our recent paper abaout <a href="https://arxiv.org/abs/2403.05477" target="blank">Sampling-Based Planning for Autonomous Photography</a> has been accepted to ICRA and will be presented during ICRA25 in Atlanta, USA on May 19 - May 23 2025.  </li>
+<li><strong>[Mar 20, 2025]</strong> Our recent paper <a href="https://link.springer.com/article/10.1007/s10846-025-02250-3" target="blank">"A Schwarz-Christoffel Mapping-based Framework for Sim-to-Real Transfer in Autonomous Robot Operations"</a> has been accepted to the Journal of Intelligent & Robotic Systems (JINT).  </li>
+<li><strong>[Jan 27, 2025]</strong> Our recent paper about <a href="https://arxiv.org/abs/2403.05477" target="blank">Sampling-Based Planning for Autonomous Photography</a> has been accepted to ICRA and will be presented during ICRA25 in Atlanta, USA on May 19 - May 23 2025.  </li>
 <li><strong>[Aug 14, 2024]</strong> I moved from VA to CA and started my new role at DiDi Research America working on planning and control for L4 autonomous driving.  </li>
 <li><strong>[May 28, 2024]</strong> I successfully defended my PhD thesis "Transfer Learning Methods for Prediction, Replanning, and Adaptations of Autonomous Mobile Robots under Degraded Conditions".  </li>
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
