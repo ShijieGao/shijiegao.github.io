@@ -7,7 +7,7 @@ layout: homepage
 <h2 style="margin: 60px 0px 10px;"> </h2>
 ## About Me <img src='assets/img/Shijie_name.png' alt='drawing' width='150px'/>
 
-I'm a robotics software engineer at DiDi Research America, shaping the future of L4 self-driving cars by building their path-planning and decision-making systems. 
+I'm a robotics software engineer at DiDi Research America, shaping the future of L4 self-driving cars by building their behavior planning and decision-making systems. 
 
 Previously, I was a research assistant in the Electrical and Computer Engineering Department at the University of Virginia. I worked in the <a href="https://www.bezzorobotics.com/"  target="_blank">Autonomous Mobile Robots (AMR) Lab</a> and the <a href="https://engineering.virginia.edu/link-lab" target="_blank">Link Lab</a> under the supervision of <a href="https://engineering.virginia.edu/faculty/nicola-bezzo" target="_blank">Prof. Nicola Bezzo</a>. Before coming to UVA, I was an exchange student for my senior year of undergraduate at <a href="https://eecs.berkeley.edu/" target="_blank">UC Berkeley EECS</a>. I received my B.S. degree in Automation at the [Beijing Institute of Technology](https://english.bit.edu.cn/), Beijing, China.
 
