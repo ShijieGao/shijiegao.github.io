@@ -1,0 +1,10 @@
+@article{Gao_Bezzo_2025,
+         title={A Schwarz-Christoffel mapping-based framework for SIM-to-real transfer in Autonomous Robot Operations},
+         volume={111},
+         DOI={10.1007/s10846-025-02250-3},
+         number={2},
+         journal={Journal of Intelligent &amp; Robotic Systems},
+         author={Gao, Shijie and Bezzo, Nicola},
+         year={2025},
+         month={May}
+        } 
