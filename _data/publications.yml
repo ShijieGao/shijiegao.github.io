@@ -5,7 +5,6 @@ main:
     conference_short: JINT
     conference: Journal of Intelligent & Robotic Systems
     pdf: './assets/files/publications/A Schwarz-Christoffel Mapping-based Framework for Sim-to-Real Transfer in Autonomous Robot Operations.pdf'
-    page: https://www.bezzorobotics.com/sg-lb-iros24
     bibtex: './assets/files/bibtex/SCM_JINT.txt' 
     image: './assets/img/publication/SCM_JINT_teaser.png'
 
