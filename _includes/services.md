@@ -42,4 +42,5 @@
   <li> IEEE Robotics and Automation Letters (RA-L) </li>
   <li> Journal of Intelligent & Robotic Systems (JINT) </li>
   <li> IEEE Transactions on Cognitive and Developmental Systems (TCDS) </li>
+  <li> Scientific Reports </li>
 </ul>
